@@ -59,7 +59,7 @@
     "@nuxtjs/eslint-config-typescript": "latest",
     "@types/svgo": "2.6.4",
     "eslint": "latest",
-    "husky": "8.0.1",
+    "husky": "8.0.3",
     "nuxt": "3.1.1",
     "pnpm": "7.26.1",
     "prettier": "2.7.1",
